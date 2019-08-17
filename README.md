@@ -1,3 +1,0 @@
-# thirdRepo
-
-Oh yeah baby
