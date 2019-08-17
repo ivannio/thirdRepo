@@ -1,2 +1,0 @@
-# thirdRepo
-third
